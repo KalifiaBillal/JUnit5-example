@@ -1,3 +1,5 @@
+![JUnit5](https://www.codeaffine.com/wp-content/uploads/2016/02/junit-lambda.png)
+
 # junit5-jupiter-starter-gradle
 
 The `junit5-jupiter-starter-gradle` project demonstrates how to run tests based on JUnit
