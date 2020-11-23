@@ -32,4 +32,21 @@ JUnit Vintage provides a TestEngine for running JUnit 3 and JUnit 4 based tests 
 
 JUnit 5 requires Java 8 (or higher) at runtime. However, you can still test code that has been compiled with previous versions of the JDK.
 
+## JUnit 5 Features
+
+To find out what features are available in JUnit 5 and how to use them, read the corresponding sections of this User Guide, organized by topic.
+
+* Writing Tests in JUnit Jupiter
+
+* Migrating from JUnit 4 to JUnit Jupiter
+
+* Running Tests
+
+* Extension Model for JUnit Jupiter
+
+* Advanced Topics
+
+  * JUnit Platform Launcher API
+
+  * JUnit Platform Test Kit
 
